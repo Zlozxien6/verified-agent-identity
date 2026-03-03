@@ -2,7 +2,7 @@ const { ethers } = require("ethers");
 const { DID } = require("@iden3/js-iden3-core");
 
 const ATTESTATION_SCHEMA_ID =
-  "0xb69e983f4ea7e92444ff1a5bcaaffe08bf979701508b6ad3ef97d6e0d4858947"; // bytes32
+  "0xca354bee6dc5eded165461d15ccb13aceb6f77ebbb1fd3fe45aca686097f2911"; // bytes32
 
 const ATTESTER_DID = ""; // string
 const ATTESTER_IDEN3_ID = 0n; // uint256
